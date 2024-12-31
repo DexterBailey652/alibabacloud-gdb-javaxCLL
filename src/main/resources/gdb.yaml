@@ -1,0 +1,7 @@
+hosts: [ localhost ]
+port: 8182
+username: LTAI5t8uaKgTkZAS4givQ14Z
+password: njsvqMxIZ7PwAocDdzTYZuugCMMQkZ
+serializer: {
+  className: org.apache.tinkerpop.gremlin.driver.ser.GraphBinaryMessageSerializerV1
+}
